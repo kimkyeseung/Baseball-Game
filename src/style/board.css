@@ -1,0 +1,10 @@
+.board-game-field-wrap {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.board-game-field {
+  padding: 20px;
+  display: block;
+  float: left;
+}
